@@ -1,10 +1,11 @@
 /********************************************************************************************
 * Arduino library for AD9850 and AD9851
-* Created 23/08/2014
+*
+* AD9850SPI library created 23/08/2014
 * Christophe Caiveau f4goj@free.fr
 * Upgrade to SPI Anthony F4GOH
 *
-* Updated Version: Farrukh Zia, K2ZIA 2018_0101
+* Updated Version: Farrukh Zia, K2ZIA 2018_0101 k2zia@arrl.net
 * – Updated library functions to comply with latest SPI library in IDE v1.8.5
 * – Implemented correct SPI bus initialization sequence
 * – Implemented correct AD985x initialization sequence
