@@ -1,5 +1,3 @@
-# AD985XSPI
-AD9850 and AD9851 SPI Library for Arduino
 /********************************************************************************************
 * Arduino library for AD9850 and AD9851
 * Created 23/08/2014
